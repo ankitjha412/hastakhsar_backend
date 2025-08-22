@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+python-multipart
 altair==5.5.0
 attrs==25.3.0
 blinker==1.9.0
